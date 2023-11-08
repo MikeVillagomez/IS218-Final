@@ -5,9 +5,9 @@ Each student should put an 'X' under their name on the days they attend class.
 
 ### November 2023
 
-| Date        | Student 1 | Mike Villagomez | Student 3 |
+| Date        | Ahmad Odeh | Mike Villagomez | Student 3 |
 |-------------|-----------|-----------|-----------|
-| Nov 8 (Wed) |           |           |           |
+| Nov 8 (Wed) |       Present    |           |           |
 | Nov 10 (Fri)|           |           |           |
 | Nov 15 (Wed)|           |           |           |
 | Nov 17 (Fri)|           |           |           |
