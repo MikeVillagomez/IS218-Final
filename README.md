@@ -1,12 +1,10 @@
 # Link to Vercel and Figma Main
 
--Link to Vercel Project [Here](https://is-218-final-beta.vercel.app/)
+-Link to Blend-Brew Tea Website Project [Here](https://is-218-final-beta.vercel.app/)
 
 -Link to Figma design 1 [Here](https://www.figma.com/file/C4rDJpr1dSmhsEmYPrFntX/design-1-(Copy)?type=design&node-id=0-1&mode=design&t=wHVgAWJDciTYN6rp-0)
 
-# Final Business Analysis Submission Link
-
--Link to the sign-in sheet [Here](https://github.com/MikeVillagomez/IS218-Final/blob/main/SIGNIN.md)
+# Final Business Analysis Link
 
 -Link to the Competitors Analysis [Here](COMPETITOR-ANALYSIS.md) 
 
