@@ -25,7 +25,7 @@ const Footer = () => {
           <span className={styles.linkLabel}>Email:</span> villagomezmike5@gmail.com
         </Link>
         <Link href="tel:201-878-0127" className={styles.customLink}>
-          <span className={styles.linkLabel}>Phone:</span> 201-878-0127
+          <span className={styles.linkLabel}>Phone:</span> 201-878-0012
         </Link>
       </div>
     </footer>
